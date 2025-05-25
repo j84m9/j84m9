@@ -9,12 +9,15 @@ You can click the Preview link to take a look at your changes.
 
 [![My Skills](https://skillicons.dev/icons?i=py,r,matlab,vscode,latex,anaconda,aws,docker,git,github,opencv,pytorch,sklearn,postgres)](https://skillicons.dev)
 --->
+### **Programming Languages:**
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,r,matlab,julia,latex,postgres)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,r,matlab,julia,vscode,latex,postgres)
+### **Tools & Platforms:**
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,anaconda,jupyter,aws,docker,git,github)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=anaconda,jupyter,aws,docker,git,github)
-
+### **Libraries:**
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,sklearn,seaborn,wandb,opencv)
 
+### **LLM & AI Tools:**
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,huggingface,langchain,llamaindex,googlecolab)
 
