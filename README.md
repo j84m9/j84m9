@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @j84m9
+- 👋 Hi, I’m @j84m9! I am a Data Scientist with a PhD in Applied Mathematics.
 
 <!---
 j84m9/j84m9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
