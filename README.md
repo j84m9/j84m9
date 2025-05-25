@@ -10,14 +10,44 @@ You can click the Preview link to take a look at your changes.
 [![My Skills](https://skillicons.dev/icons?i=py,r,matlab,vscode,latex,anaconda,aws,docker,git,github,opencv,pytorch,sklearn,postgres)](https://skillicons.dev)
 --->
 ### **Languages:**
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,r,matlab,julia,latex,postgres)
+[![Python](https://go-skill-icons.vercel.app/api/icons?i=py)](https://www.python.org/)
+[![R](https://go-skill-icons.vercel.app/api/icons?i=r)](https://www.r-project.org/)
+[![MATLAB](https://go-skill-icons.vercel.app/api/icons?i=matlab)](https://www.mathworks.com/products/matlab.html)
+[![Julia](https://go-skill-icons.vercel.app/api/icons?i=julia)](https://julialang.org/)
+[![LaTeX](https://go-skill-icons.vercel.app/api/icons?i=latex)](https://www.latex-project.org/)
 
 ### **Tools & Platforms:**
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,anaconda,jupyter,aws,docker,git,github)
+[![VS Code](https://go-skill-icons.vercel.app/api/icons?i=vscode)](https://code.visualstudio.com/)
+[![Anaconda](https://go-skill-icons.vercel.app/api/icons?i=anaconda)](https://www.anaconda.com/)
+[![Jupyter](https://go-skill-icons.vercel.app/api/icons?i=jupyter)](https://jupyter.org/)
+[![AWS](https://go-skill-icons.vercel.app/api/icons?i=aws)](https://aws.amazon.com/)
+[![Docker](https://go-skill-icons.vercel.app/api/icons?i=docker)](https://www.docker.com/)
+[![Git](https://go-skill-icons.vercel.app/api/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github)](https://github.com/)
+
 
 ### **Libraries:**
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,sklearn,seaborn,wandb,opencv)
+[![PyTorch](https://go-skill-icons.vercel.app/api/icons?i=pytorch)](https://pytorch.org/)
+[![scikit-learn](https://go-skill-icons.vercel.app/api/icons?i=sklearn)](https://scikit-learn.org/)
+[![Seaborn](https://go-skill-icons.vercel.app/api/icons?i=seaborn)](https://seaborn.pydata.org/)
+[![Weights & Biases](https://go-skill-icons.vercel.app/api/icons?i=wandb)](https://wandb.ai/)
+[![OpenCV](https://go-skill-icons.vercel.app/api/icons?i=opencv)](https://opencv.org/)
+
 
 ### **LLM & AI Tools:**
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,huggingface,langchain,llamaindex,googlecolab)
+[![ChatGPT](https://go-skill-icons.vercel.app/api/icons?i=chatgpt)](https://chat.openai.com/)
+[![Hugging Face](https://go-skill-icons.vercel.app/api/icons?i=huggingface)](https://huggingface.co/)
+[![LangChain](https://go-skill-icons.vercel.app/api/icons?i=langchain)](https://www.langchain.com/)
+[![LlamaIndex](https://go-skill-icons.vercel.app/api/icons?i=llamaindex)](https://www.llamaindex.ai/)
+[![Google Colab](https://go-skill-icons.vercel.app/api/icons?i=googlecolab)](https://colab.research.google.com/)
+
+<!--- 
+<a href="https://www.r-project.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" alt="R" />
+</a>
+
+<a href="https://mlflow.org/">
+  <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" width="100" alt="MLflow" />
+</a>
+--->
 
