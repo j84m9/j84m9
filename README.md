@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 [![My Skills](https://skillicons.dev/icons?i=py,r,matlab,vscode,latex,anaconda,aws,docker,git,github,opencv,pytorch,sklearn,postgres)](https://skillicons.dev)
 --->
-### **Programming Languages:**
+### **Languages:**
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,r,matlab,julia,latex,postgres)
 
 ### **Tools & Platforms:**
